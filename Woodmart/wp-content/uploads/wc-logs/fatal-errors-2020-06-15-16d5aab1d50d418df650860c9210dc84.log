@@ -1,0 +1,8 @@
+2020-06-15T14:25:17+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 4096 bytes) in C:\xampp\htdocs\WP\Woodmart\wp-includes\pomo\mo.php on line 323
+
+2020-06-15T14:25:42+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\Woodmart\wp-content\plugins\js_composer\include\classes\core\class-vc-base.php on line 539
+
+2020-06-15T14:25:52+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 28672 bytes) in C:\xampp\htdocs\WP\Woodmart\wp-includes\wp-db.php on line 1989
+
+2020-06-15T14:25:52+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\Woodmart\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Revenue\Stats\Controller.php on line 401
+

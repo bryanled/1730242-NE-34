@@ -1704,7 +1704,7 @@
 	.cmsmasters_archive_type .cmsmasters_archive_item_info, 
 	.cmsmasters_archive_type .cmsmasters_archive_item_info a, 
 	.cmsmasters_print_button	{
-		color:#9f00cc;
+		color:#540075;
 	}
 	
 	.headline_inner.align_center .cmsmasters_breadcrumbs .cmsmasters_breadcrumbs_inner,
@@ -1726,7 +1726,7 @@
 	.cmsmasters_pricing_table .pricing_title_wrap .pricing_title, 
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner, 
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		background-color:#9f00cc;
+		background-color:#540075;
 	}
 	
 	table thead th, 
@@ -1734,7 +1734,7 @@
 	.cmsmasters_notice .notice_close:hover, 
 	.cmsmasters_open_post .cmsmasters_post_header, 
 	.cmsmasters_open_project .cmsmasters_project_header {
-		border-color:#9f00cc;
+		border-color:#540075;
 	}
 		
 	.cmsmasters_single_slider_title, 
@@ -1748,7 +1748,7 @@
 	.profile_details_title, 
 	.profile_features_title, 
 	.profile_contact_info_title {
-		border-top-color:#9f00cc;
+		border-top-color:#540075;
 	}
 	
 	.cmsmasters_prev_arrow:hover, 
@@ -1756,29 +1756,29 @@
 	.post_nav > span > a:hover + span, 
 	.cmsmasters_wrap_pagination ul li .page-numbers:hover, 
 	.cmsmasters_wrap_pagination ul li .page-numbers.current {
-		color:rgba(159, 0, 204, 0.5);
+		color:rgba(84, 0, 117, 0.5);
 	}
 	
 	.cmsmasters_content_slider .owl-buttons > div > span, 
 	.cmsmasters_alt_navigation .owl-buttons > div > span {
-		background-color:rgba(159, 0, 204, 0.4);
+		background-color:rgba(84, 0, 117, 0.4);
 	}
 	
 	.cmsmasters_slider_project .cmsmasters_slider_project_inner, 
 	.cmsmasters_project_puzzle .project_inner {
-		background-color:rgba(159, 0, 204, 0.65);
+		background-color:rgba(84, 0, 117, 0.65);
 	}
 	
 	.cmsmasters_profile_vertical .cmsmasters_img_rollover .cmsmasters_open_link, 
 	.cmsmasters_profile_horizontal .cmsmasters_img_rollover .cmsmasters_open_link, 
 	.cmsmasters_project_grid .project_outer_image_wrap_cont {
-		background-color:rgba(159, 0, 204, 0.7);
+		background-color:rgba(84, 0, 117, 0.7);
 	}
 	
 	.cmsmasters_header_search_form, 
 	.cmsmasters_content_slider .owl-buttons > div:hover > span, 
 	.cmsmasters_alt_navigation .owl-buttons > div:hover > span {
-		background-color:rgba(159, 0, 204, 0.8);
+		background-color:rgba(84, 0, 117, 0.8);
 	}
 	/* Finish Headings Color */
 	
@@ -5843,7 +5843,7 @@
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav, 
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav:hover, 
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav.active	{
-		color:#ffffff;
+		color:#540075;
 	}
 	/* Finish Header Middle Content Color */
 	
@@ -5852,14 +5852,14 @@
 	.header_mid a, 
 	.header_mid .cmsmasters_social_icon, 
 	.cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button {
-		color:#ffffff;
+		color:#540075;
 	}
 	
 	.header_mid .button:hover, 
 	.header_mid input[type=submit]:hover, 
 	.header_mid input[type=button]:hover, 
 	.header_mid button:hover {
-		background-color:#ffffff;
+		background-color:#540075;
 	}
 	/* Finish Header Middle Primary Color */
 	
@@ -5896,7 +5896,7 @@
 	.header_mid input[type=submit]:hover, 
 	.header_mid input[type=button]:hover, 
 	.header_mid button:hover {
-		color:#540075;
+		color:#ffffff;
 	}
 	
 	.header_mid,
@@ -5904,7 +5904,7 @@
 	.header_mid textarea,
 	.header_mid select,
 	.header_mid option {
-		background-color:#540075;
+		background-color:#ffffff;
 	}
 	/* Finish Header Middle Background Color */
 	
@@ -5935,17 +5935,17 @@
 	
 	/* Start Header Middle Custom Rules */
 	.header_mid_inner_cont {
-		box-shadow: inset 0px -1px 0px 0px #dcd9c9, inset 0px -4px 0px 0px #540075,  inset 0px -5px 0px 0px #dcd9c9;
+		box-shadow: inset 0px -1px 0px 0px #dcd9c9, inset 0px -4px 0px 0px #ffffff,  inset 0px -5px 0px 0px #dcd9c9;
 	}
 	
 	.header_mid ::selection {
-		background:#ffffff;
-		color:#540075;
+		background:#540075;
+		color:#ffffff;
 	}
 	
 	.header_mid ::-moz-selection {
-		background:#ffffff;
-		color:#540075;
+		background:#540075;
+		color:#ffffff;
 	}
 	/* Finish Header Middle Custom Rules */
 
@@ -6068,7 +6068,7 @@
 	/* Start Navigation Title Link Color */
 	@media only screen and (min-width: 1025px) {
 		ul.navigation > li > a {
-			color:#fffef7;
+			color:#540075;
 		}
 	}
 	/* Finish Navigation Title Link Color */
@@ -6475,8 +6475,8 @@
 	 .wp-block-table thead td,
 	 .wp-block-freeform.mce-content-body > table thead th,
 	 .wp-block-freeform.mce-content-body > table thead td {
-		background-color:#9f00cc;
-		border-color:#9f00cc;
+		background-color:#540075;
+		border-color:#540075;
 	}
 	
 	 .wp-block-table thead th,
@@ -6559,15 +6559,15 @@
 	.editor-styles-wrapper h6,
 	.editor-styles-wrapper h6 a,
 	 .wp-block-pullquote {
-		color:#9f00cc;
+		color:#540075;
 	}
 	
 	 .wp-block-pullquote.is-style-solid-color {
-		background-color:#9f00cc;
+		background-color:#540075;
 	}
 	
 	 .wp-block-pullquote {
-		border-color:#9f00cc;
+		border-color:#540075;
 	}
 	/* Finish Headings Color */
 	
@@ -6748,7 +6748,7 @@
 	.shop_table td, 
 	.shop_table.customer_details td, 
 	.shop_table.customer_details th	{
-		color:#9f00cc;
+		color:#540075;
 	}
 	
 	.woocommerce-store-notice, 
@@ -6763,11 +6763,11 @@
 	.stock, 
 	.widget_shopping_cart .widget_shopping_cart_content .button:hover, 
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .button:hover {
-		background-color:#9f00cc;
+		background-color:#540075;
 	}
 	
 	section.products > h2 {
-		border-top-color:#9f00cc;
+		border-top-color:#540075;
 	}
 	/* Finish Headings Color */
 	

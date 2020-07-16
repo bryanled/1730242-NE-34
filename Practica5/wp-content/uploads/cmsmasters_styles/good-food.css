@@ -1411,7 +1411,7 @@
 	select,
 	option, 
 	.cmsmasters_quotes_grid .cmsmasters_quote_content {
-		color:#540075;
+		color:#0d0a15;
 	}
 	
 	#wp-calendar th, 
@@ -1486,7 +1486,7 @@
 	.widget_custom_posts_tabs_entries .cmsmasters_tabs .cmsmasters_tab.tab_comments li a:hover, 
 	.cmsmasters_post_default .cmsmasters_post_info_top a .cmsmasters_post_date, 
 	.cmsmasters_mailpoet_form .parsley-errors-list li {
-		color:#ea23d9;
+		color:#a139ca;
 	}
 	
 	#slide_top:hover, 
@@ -1514,7 +1514,7 @@
 	.cmsmasters_single_slider .cmsmasters_prev_arrow:hover, 
 	.cmsmasters_single_slider .cmsmasters_next_arrow:hover, 
 	.cmsmasters_stats.stats_mode_bars .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner {
-		background-color:#ea23d9;
+		background-color:#a139ca;
 	}
 	
 	#slide_top:hover, 
@@ -1526,7 +1526,7 @@
 	.post_nav a:hover + span, 
 	.cmsmasters_single_slider .cmsmasters_prev_arrow:hover, 
 	.cmsmasters_single_slider .cmsmasters_next_arrow:hover {
-		border-color:#ea23d9;
+		border-color:#a139ca;
 	}
 	/* Finish Primary Color */
 	
@@ -1590,30 +1590,30 @@
 	.cmsmasters_profile_header .cmsmasters_profile_subtitle, 
 	.cmsmasters_post_default .cmsmasters_post_info_top a:hover .cmsmasters_post_date,
 	.subpage_nav > span {
-		color:#0015ff;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_button:hover, 
 	.footer_inner .social_wrap a:hover {
-		background-color:#0015ff;
+		background-color:#a139ca;
 	}
 	
 	input::-webkit-input-placeholder {
-		color:rgba(0, 21, 255, 0.7);
+		color:rgba(161, 57, 202, 0.7);
 	}
 	
 	input:-moz-placeholder {
-		color:rgba(0, 21, 255, 0.7);
+		color:rgba(161, 57, 202, 0.7);
 	}
 	
 	.cmsmasters_open_profile .profile_social_icons_list a, 
 	.cmsmasters_profile_horizontal .profile_social_icons_list a, 
 	.cmsmasters_profile_vertical .profile_social_icons_list a {
-		color:rgba(0, 21, 255, 0.4);
+		color:rgba(161, 57, 202, 0.4);
 	}
 	
 	.search_button button {
-		color:rgba(0, 21, 255, 0.5);
+		color:rgba(161, 57, 202, 0.5);
 	} 
 	/* Finish Highlight Color */
 	
@@ -1704,7 +1704,7 @@
 	.cmsmasters_archive_type .cmsmasters_archive_item_info, 
 	.cmsmasters_archive_type .cmsmasters_archive_item_info a, 
 	.cmsmasters_print_button	{
-		color:#540075;
+		color:#4817f6;
 	}
 	
 	.headline_inner.align_center .cmsmasters_breadcrumbs .cmsmasters_breadcrumbs_inner,
@@ -1726,7 +1726,7 @@
 	.cmsmasters_pricing_table .pricing_title_wrap .pricing_title, 
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner, 
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		background-color:#540075;
+		background-color:#4817f6;
 	}
 	
 	table thead th, 
@@ -1734,7 +1734,7 @@
 	.cmsmasters_notice .notice_close:hover, 
 	.cmsmasters_open_post .cmsmasters_post_header, 
 	.cmsmasters_open_project .cmsmasters_project_header {
-		border-color:#540075;
+		border-color:#4817f6;
 	}
 		
 	.cmsmasters_single_slider_title, 
@@ -1748,7 +1748,7 @@
 	.profile_details_title, 
 	.profile_features_title, 
 	.profile_contact_info_title {
-		border-top-color:#540075;
+		border-top-color:#4817f6;
 	}
 	
 	.cmsmasters_prev_arrow:hover, 
@@ -1756,29 +1756,29 @@
 	.post_nav > span > a:hover + span, 
 	.cmsmasters_wrap_pagination ul li .page-numbers:hover, 
 	.cmsmasters_wrap_pagination ul li .page-numbers.current {
-		color:rgba(84, 0, 117, 0.5);
+		color:rgba(72, 23, 246, 0.5);
 	}
 	
 	.cmsmasters_content_slider .owl-buttons > div > span, 
 	.cmsmasters_alt_navigation .owl-buttons > div > span {
-		background-color:rgba(84, 0, 117, 0.4);
+		background-color:rgba(72, 23, 246, 0.4);
 	}
 	
 	.cmsmasters_slider_project .cmsmasters_slider_project_inner, 
 	.cmsmasters_project_puzzle .project_inner {
-		background-color:rgba(84, 0, 117, 0.65);
+		background-color:rgba(72, 23, 246, 0.65);
 	}
 	
 	.cmsmasters_profile_vertical .cmsmasters_img_rollover .cmsmasters_open_link, 
 	.cmsmasters_profile_horizontal .cmsmasters_img_rollover .cmsmasters_open_link, 
 	.cmsmasters_project_grid .project_outer_image_wrap_cont {
-		background-color:rgba(84, 0, 117, 0.7);
+		background-color:rgba(72, 23, 246, 0.7);
 	}
 	
 	.cmsmasters_header_search_form, 
 	.cmsmasters_content_slider .owl-buttons > div:hover > span, 
 	.cmsmasters_alt_navigation .owl-buttons > div:hover > span {
-		background-color:rgba(84, 0, 117, 0.8);
+		background-color:rgba(72, 23, 246, 0.8);
 	}
 	/* Finish Headings Color */
 	
@@ -1800,7 +1800,7 @@
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner .cmsmasters_period, 
 	.cmsmasters_pricing_table .pricing_best .feature_list a, 
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		color:#fffef7;
+		color:#ffffff;
 	}
 	
 	body,
@@ -1821,20 +1821,20 @@
 	.cmsmasters_pricing_table .pricing_best .pricing_title_wrap .pricing_title, 
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_button, 
 	.cmsmasters_print_button	{
-		background-color:#fffef7;
+		background-color:#ffffff;
 	}
 	
 	.cmsmasters_tabs.tabs_mode_tour.tabs_pos_right .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-left-color:#fffef7;
+		border-left-color:#ffffff;
 	}
 	
 	.cmsmasters_tabs.tabs_mode_tour.tabs_pos_left .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-right-color:#fffef7;
+		border-right-color:#ffffff;
 	}
 	
 	@media only screen and (min-width: 950px) {
 		.cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-			border-bottom-color:#fffef7;
+			border-bottom-color:#ffffff;
 		}
 	}
 	/* Finish Main Background Color */
@@ -1889,7 +1889,7 @@
 	.cmsmasters_header_search_form button, 
 	.cmsmasters_icon_wrap a:hover .cmsmasters_simple_icon,
 	.cmsmasters_header_search_form .cmsmasters_header_search_form_close {
-		color:#fffef7;
+		color:#e7dedc;
 	}
 	
 	.img_placeholder_small, 
@@ -1901,18 +1901,18 @@
 	.gallery-item .gallery-caption,
 	.cmsmasters_img.with_caption, 
 	.owl-pagination .owl-page {
-		background-color:#fffef7;
+		background-color:#e7dedc;
 	}
 	
 	#slide_top  {
-		background-color:rgba(255, 254, 247, 0.8);
+		background-color:rgba(231, 222, 220, 0.8);
 	}
 	
 	.cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_likes a:hover, 
 	.cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_likes a.active, 
 	.cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_comments a:hover, 
 	.cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_views .active {
-		color:rgba(255, 254, 247, 0.6);
+		color:rgba(231, 222, 220, 0.6);
 	}
 	
 	.cmsmasters_project_puzzle .cmsmasters_likes a:hover, 
@@ -1927,15 +1927,15 @@
 	.cmsmasters_slider_project .cmsmasters_views .active, 
 	.cmsmasters_slider_project .cmsmasters_slider_project_category a:hover, 
 	.cmsmasters_slider_project .cmsmasters_slider_project_title a:hover {
-		color:rgba(255, 254, 247, 0.7);
+		color:rgba(231, 222, 220, 0.7);
 	}
 	
 	.cmsmasters_header_search_form input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range])::-webkit-input-placeholder {
-		color:#fffef7;
+		color:#e7dedc;
 	}
 	
 	.cmsmasters_header_search_form input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range]):-moz-placeholder {
-		color:#fffef7;
+		color:#e7dedc;
 	}
 	/* Finish Alternate Background Color */
 	
@@ -1963,7 +1963,7 @@
 	.cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap:before, 
 	.cmsmasters_pricing_table .pricing_title_wrap:before, 
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped:before {
-		background-color:#dbbfef;
+		background-color:#ffffff;
 	}
 	
 	#slide_top,
@@ -2028,15 +2028,15 @@
 	.cmsmasters_pricing_table .cmsmasters_pricing_item_inner, 
 	.error .error_inner, 
 	.cmsmasters_print_button {
-		border-color:#dbbfef;
+		border-color:#ffffff;
 	}
 	
 	.cmsmasters_tabs.tabs_mode_tour.tabs_pos_right .cmsmasters_tabs_list .cmsmasters_tabs_list_item:not(.current_tab) {
-		border-left-color:#dbbfef;
+		border-left-color:#ffffff;
 	}
 	
 	.cmsmasters_tabs.tabs_mode_tour.tabs_pos_left .cmsmasters_tabs_list .cmsmasters_tabs_list_item:not(.current_tab) {
-		border-right-color:#dbbfef;
+		border-right-color:#ffffff;
 	}
 	
 	.cmsmasters_single_slider_title, 
@@ -2047,7 +2047,7 @@
 	.profile_details_title, 
 	.profile_features_title, 
 	.profile_contact_info_title {
-		border-bottom-color:#dbbfef;
+		border-bottom-color:#ffffff;
 	}
 	
 	fieldset,
@@ -2064,7 +2064,7 @@
 	.cmsmasters-form-builder .check_parent input[type=radio] + label:before, 
 	.cmsmasters_toggles .cmsmasters_toggle_title a:hover, 
 	.cmsmasters_quotes_slider .cmsmasters_quote_inner {
-		background-color:rgba(219, 191, 239, 0.1);
+		background-color:rgba(255, 255, 255, 0.1);
 	}
 	
 	.cmsmasters_prev_arrow:hover, 
@@ -2074,27 +2074,27 @@
 	.cmsmasters_wrap_pagination ul li .page-numbers.current, 
 	.wp-caption, 
 	.cmsmasters_pricing_table .cmsmasters_pricing_item_inner {
-		background-color:rgba(219, 191, 239, 0.2);
+		background-color:rgba(255, 255, 255, 0.2);
 	}
 	
 	.cmsmasters_open_project .project_features {
-		background-color:rgba(219, 191, 239, 0.5);
+		background-color:rgba(255, 255, 255, 0.5);
 	}
 	
 	.cmsmasters_stats.stats_mode_circles .cmsmasters_stat_wrap .cmsmasters_stat .cmsmasters_stat_inner {
-		-webkit-box-shadow:inset 0 0 0 1px #dbbfef;
-		box-shadow:inset 0 0 0 1px #dbbfef;
+		-webkit-box-shadow:inset 0 0 0 1px #ffffff;
+		box-shadow:inset 0 0 0 1px #ffffff;
 	}
 	
 	@media only screen and (min-width: 950px) {
 		.cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item {
-			border-bottom-color:#dbbfef;
+			border-bottom-color:#ffffff;
 		}
 	}
 	
 	@media only screen and (max-width: 1440px) {
 		.widget_custom_posts_tabs_entries .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item {
-			border-bottom-color:#dbbfef;
+			border-bottom-color:#ffffff;
 		}
 	}
 	/* Finish Borders Color */
@@ -2102,13 +2102,13 @@
 	
 	/* Start Custom Rules */
 	::selection {
-		background:#540075;
-		color:#fffef7;;
+		background:#0d0a15;
+		color:#e7dedc;;
 	}
 	
 	::-moz-selection {
-		background:#540075;
-		color:#fffef7;
+		background:#0d0a15;
+		color:#e7dedc;
 	}
 	
 	/* Finish Custom Rules */
@@ -2119,28 +2119,28 @@
 /***************** Start Default Button Color Scheme Rules ******************/
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover {
-		border-color:#ea23d9;
-		background-color:#fffef7;
-		color:#ea23d9;
+		border-color:#a139ca;
+		background-color:#ffffff;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover:hover {
-		border-color:#ea23d9;
-		background-color:#ea23d9;
-		color:#fffef7;
+		border-color:#a139ca;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_bd_underline {
-		border-color:#ea23d9;
-		background-color:#fffef7;
-		color:#ea23d9;
+		border-color:#a139ca;
+		background-color:#ffffff;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#fffef7;
-		background-color:#fffef7;
-		color:#ea23d9;
+		border-color:#ffffff;
+		background-color:#ffffff;
+		color:#a139ca;
 	}
 	
 	
@@ -2151,9 +2151,9 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag {
-		border-color:#ea23d9;
-		background-color:#fffef7;
-		color:#ea23d9;
+		border-color:#a139ca;
+		background-color:#ffffff;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_slide_left:hover, 
@@ -2163,9 +2163,9 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert:hover, 
 	.cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
-		border-color:#ea23d9;
-		background-color:#fffef7;
-		color:#fffef7;
+		border-color:#a139ca;
+		background-color:#ffffff;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -2175,80 +2175,80 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_vert:after, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor:after, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag:after {
-		background-color:#ea23d9;
+		background-color:#a139ca;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_shadow {
-		background-color:#ea23d9;
-		color:#fffef7;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_shadow:hover {
-		background-color:#ea23d9;
-		color:#fffef7;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_icon_dark_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_divider {
-		background-color:#ea23d9;
-		color:#fffef7;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_divider:hover {
-		background-color:#ea23d9;
-		color:#fffef7;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#fffef7;
+		border-right-color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse {
-		border-color:#ea23d9;
-		background-color:#ea23d9;
-		color:#fffef7;
+		border-color:#a139ca;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:before {
-		color:#ea23d9;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#fffef7;
+		background-color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover {
-		border-color:#ea23d9;
-		background-color:#fffef7;
-		color:#ea23d9;
+		border-color:#a139ca;
+		background-color:#ffffff;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#fffef7;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
-		background-color:#ea23d9;
+		background-color:#a139ca;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right {
-		border-color:#ea23d9;
-		background-color:#fffef7;
-		color:#ea23d9;
+		border-color:#a139ca;
+		background-color:#ffffff;
+		color:#a139ca;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_slide_left:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
-		border-color:#ea23d9;
-		background-color:#ea23d9;
-		color:#fffef7;
+		border-color:#a139ca;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	
@@ -2256,18 +2256,18 @@
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_right, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_top, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
-		border-color:#ea23d9;
-		background-color:#ea23d9;
-		color:#fffef7;
+		border-color:#a139ca;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_right:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_top:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
-		border-color:#ea23d9;
-		background-color:#ea23d9;
-		color:#fffef7;
+		border-color:#a139ca;
+		background-color:#a139ca;
+		color:#ffffff;
 	}
 
 /***************** Finish Default Button Color Scheme Rules ******************/
@@ -2673,7 +2673,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner .cmsmasters_period, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .feature_list a, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		color:#540075;
+		color:#020000;
 	}
 	
 	
@@ -2694,20 +2694,20 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .pricing_title_wrap .pricing_title, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_pricing_table .pricing_best .cmsmasters_button, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_print_button	{
-		background-color:#540075;
+		background-color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_tabs.tabs_mode_tour.tabs_pos_right .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-left-color:#540075;
+		border-left-color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_tabs.tabs_mode_tour.tabs_pos_left .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-right-color:#540075;
+		border-right-color:#020000;
 	}
 	
 	@media only screen and (min-width: 950px) {
 		html .cmsmasters_color_scheme_footer .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-			border-bottom-color:#540075;
+			border-bottom-color:#020000;
 		}
 	}
 	/* Finish Main Background Color */
@@ -2762,7 +2762,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_header_search_form button, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_icon_wrap a:hover .cmsmasters_simple_icon,
 	html .cmsmasters_color_scheme_footer .cmsmasters_header_search_form .cmsmasters_header_search_form_close {
-		color:#5c008e;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .img_placeholder_small, 
@@ -2774,18 +2774,18 @@
 	html .cmsmasters_color_scheme_footer .gallery-item .gallery-caption,
 	html .cmsmasters_color_scheme_footer .cmsmasters_img.with_caption, 
 	html .cmsmasters_color_scheme_footer .owl-pagination .owl-page {
-		background-color:#5c008e;
+		background-color:#020000;
 	}
 	
 	 {
-		background-color:rgba(92, 0, 142, 0.8);
+		background-color:rgba(2, 0, 0, 0.8);
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_likes a:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_likes a.active, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_comments a:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_project_grid .cmsmasters_project_cont_info .cmsmasters_views .active {
-		color:rgba(92, 0, 142, 0.6);
+		color:rgba(2, 0, 0, 0.6);
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_project_puzzle .cmsmasters_likes a:hover, 
@@ -2800,15 +2800,15 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_slider_project .cmsmasters_views .active, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_slider_project .cmsmasters_slider_project_category a:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_slider_project .cmsmasters_slider_project_title a:hover {
-		color:rgba(92, 0, 142, 0.7);
+		color:rgba(2, 0, 0, 0.7);
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_header_search_form input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range])::-webkit-input-placeholder {
-		color:#5c008e;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_header_search_form input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range]):-moz-placeholder {
-		color:#5c008e;
+		color:#020000;
 	}
 	/* Finish Alternate Background Color */
 	
@@ -2976,26 +2976,26 @@
 	/* Start Custom Rules */
 	html .cmsmasters_color_scheme_footer ::selection {
 		background:rgba(255,255,255,0.7);
-		color:#5c008e;;
+		color:#020000;;
 	}
 	
 	html .cmsmasters_color_scheme_footer ::-moz-selection {
 		background:rgba(255,255,255,0.7);
-		color:#5c008e;
+		color:#020000;
 	}
 	
 		.cmsmasters_color_scheme_footer.cmsmasters_row_top_zigzag:before, 
 		.cmsmasters_color_scheme_footer.cmsmasters_row_bot_zigzag:after {
-			background-image: -webkit-linear-gradient(135deg, #540075 25%, transparent 25%), 
-					-webkit-linear-gradient(45deg, #540075 25%, transparent 25%);
-			background-image: -moz-linear-gradient(135deg, #540075 25%, transparent 25%), 
-					-moz-linear-gradient(45deg, #540075 25%, transparent 25%);
-			background-image: -ms-linear-gradient(135deg, #540075 25%, transparent 25%), 
-					-ms-linear-gradient(45deg, #540075 25%, transparent 25%);
-			background-image: -o-linear-gradient(135deg, #540075 25%, transparent 25%), 
-					-o-linear-gradient(45deg, #540075 25%, transparent 25%);
-			background-image: linear-gradient(315deg, #540075 25%, transparent 25%), 
-					linear-gradient(45deg, #540075 25%, transparent 25%);
+			background-image: -webkit-linear-gradient(135deg, #020000 25%, transparent 25%), 
+					-webkit-linear-gradient(45deg, #020000 25%, transparent 25%);
+			background-image: -moz-linear-gradient(135deg, #020000 25%, transparent 25%), 
+					-moz-linear-gradient(45deg, #020000 25%, transparent 25%);
+			background-image: -ms-linear-gradient(135deg, #020000 25%, transparent 25%), 
+					-ms-linear-gradient(45deg, #020000 25%, transparent 25%);
+			background-image: -o-linear-gradient(135deg, #020000 25%, transparent 25%), 
+					-o-linear-gradient(45deg, #020000 25%, transparent 25%);
+			background-image: linear-gradient(315deg, #020000 25%, transparent 25%), 
+					linear-gradient(45deg, #020000 25%, transparent 25%);
 		}
 		
 	/* Finish Custom Rules */
@@ -3007,26 +3007,26 @@
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_hover {
 		border-color:#ffffff;
-		background-color:#540075;
+		background-color:#020000;
 		color:#ffffff;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_hover:hover {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bd_underline {
 		border-color:#ffffff;
-		background-color:#540075;
+		background-color:#020000;
 		color:#ffffff;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#540075;
-		background-color:#540075;
+		border-color:#020000;
+		background-color:#020000;
 		color:#ffffff;
 	}
 	
@@ -3039,7 +3039,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_diag {
 		border-color:#ffffff;
-		background-color:#540075;
+		background-color:#020000;
 		color:#ffffff;
 	}
 	
@@ -3051,8 +3051,8 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
 		border-color:#ffffff;
-		background-color:#540075;
-		color:#540075;
+		background-color:#020000;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -3068,12 +3068,12 @@
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_shadow {
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_shadow:hover {
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	
@@ -3081,24 +3081,24 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider {
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider:hover {
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#540075;
+		border-right-color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:before {
@@ -3106,17 +3106,17 @@
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#540075;
+		background-color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover {
 		border-color:#ffffff;
-		background-color:#540075;
+		background-color:#020000;
 		color:#ffffff;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#540075;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
@@ -3127,7 +3127,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_right {
 		border-color:#ffffff;
-		background-color:#540075;
+		background-color:#020000;
 		color:#ffffff;
 	}
 	
@@ -3135,7 +3135,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	
@@ -3145,7 +3145,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
@@ -3154,7 +3154,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
 		border-color:#ffffff;
 		background-color:#ffffff;
-		color:#540075;
+		color:#020000;
 	}
 
 /***************** Finish Footer Button Color Scheme Rules ******************/
@@ -5843,7 +5843,7 @@
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav, 
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav:hover, 
 	.header_mid .resp_mid_nav_wrap .resp_mid_nav.active	{
-		color:#540075;
+		color:#4817f6;
 	}
 	/* Finish Header Middle Content Color */
 	
@@ -5852,14 +5852,14 @@
 	.header_mid a, 
 	.header_mid .cmsmasters_social_icon, 
 	.cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button {
-		color:#540075;
+		color:#ffffff;
 	}
 	
 	.header_mid .button:hover, 
 	.header_mid input[type=submit]:hover, 
 	.header_mid input[type=button]:hover, 
 	.header_mid button:hover {
-		background-color:#540075;
+		background-color:#ffffff;
 	}
 	/* Finish Header Middle Primary Color */
 	
@@ -5869,20 +5869,20 @@
 	.header_mid .cmsmasters_social_icon:hover, 
 	.cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button:hover, 
 	.cmsmasters_dynamic_cart:hover .cmsmasters_dynamic_cart_button {
-		color:#ea23d9;
+		color:#a139ca;
 	}
 	
 	.header_mid .button, 
 	.header_mid input[type=submit], 
 	.header_mid input[type=button], 
 	.header_mid button {
-		background-color:#ea23d9;
+		background-color:#a139ca;
 	}
 	
 	.header_mid input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range]):focus,
 	.header_mid textarea:focus,
 	.header_mid select:focus {
-		border-color:#ea23d9;
+		border-color:#a139ca;
 	}
 	/* Finish Header Middle Rollover Color */
 	
@@ -5896,7 +5896,7 @@
 	.header_mid input[type=submit]:hover, 
 	.header_mid input[type=button]:hover, 
 	.header_mid button:hover {
-		color:#ffffff;
+		color:rgba(0,0,0,0.81);
 	}
 	
 	.header_mid,
@@ -5904,19 +5904,19 @@
 	.header_mid textarea,
 	.header_mid select,
 	.header_mid option {
-		background-color:#ffffff;
+		background-color:rgba(0,0,0,0.81);
 	}
 	/* Finish Header Middle Background Color */
 	
 	
 	/* Start Header Middle Background Color on Scroll */
 	.header_mid.header_mid_scroll {
-		background-color:#9f00cc;
+		background-color:#3f9bb6;
 	}
 	
 	@media only screen and (max-width: 1024px) {
 		.header_mid {
-			background-color:#9f00cc;
+			background-color:#3f9bb6;
 		}
 	}
 	/* Finish Header Middle Background Color on Scroll */
@@ -5928,24 +5928,24 @@
 	.header_mid select,
 	.header_mid option, 
 	.header_mid .mid_nav_wrap nav {
-		border-color:#dcd9c9;
+		border-color:rgba(255,255,255,0);
 	}
 	/* Finish Header Middle Borders Color */
 	
 	
 	/* Start Header Middle Custom Rules */
 	.header_mid_inner_cont {
-		box-shadow: inset 0px -1px 0px 0px #dcd9c9, inset 0px -4px 0px 0px #ffffff,  inset 0px -5px 0px 0px #dcd9c9;
+		box-shadow: inset 0px -1px 0px 0px rgba(255,255,255,0), inset 0px -4px 0px 0px rgba(0,0,0,0.81),  inset 0px -5px 0px 0px rgba(255,255,255,0);
 	}
 	
 	.header_mid ::selection {
-		background:#540075;
-		color:#ffffff;
+		background:#ffffff;
+		color:rgba(0,0,0,0.81);
 	}
 	
 	.header_mid ::-moz-selection {
-		background:#540075;
-		color:#ffffff;
+		background:#ffffff;
+		color:rgba(0,0,0,0.81);
 	}
 	/* Finish Header Middle Custom Rules */
 
@@ -5961,14 +5961,14 @@
 	.header_bot textarea,
 	.header_bot select,
 	.header_bot option {
-		color:#9f00cc;
+		color:#3f9bb6;
 	}
 	/* Finish Header Bottom Content Color */
 	
 	
 	/* Start Header Bottom Primary Color */
 	.header_bot a {
-		color:#9f00cc;
+		color:#3f9bb6;
 	}
 	
 	.header_bot .button:hover, 
@@ -5977,14 +5977,14 @@
 	.header_bot button:hover, 
 	.header_bot .resp_bot_nav_wrap .resp_bot_nav:hover, 
 	.header_bot .resp_bot_nav_wrap .resp_bot_nav.active {
-		background-color:#9f00cc;
+		background-color:#3f9bb6;
 	}
 	/* Finish Header Bottom Primary Color */
 	
 	
 	/* Start Header Bottom Rollover Color */
 	.header_bot a:hover {
-		color:#8e9092;
+		color:#ffffff;
 	}
 	
 	.header_bot .button, 
@@ -5992,13 +5992,13 @@
 	.header_bot input[type=button], 
 	.header_bot button,
 	.header_bot .resp_bot_nav_wrap .resp_bot_nav {
-		background-color:#8e9092;
+		background-color:#ffffff;
 	}
 	
 	.header_bot input:not([type=button]):not([type=checkbox]):not([type=file]):not([type=hidden]):not([type=image]):not([type=radio]):not([type=reset]):not([type=submit]):not([type=color]):not([type=range]):focus,
 	.header_bot textarea:focus,
 	.header_bot select:focus {
-		border-color:#8e9092;
+		border-color:#ffffff;
 	}
 	/* Finish Header Bottom Rollover Color */
 	
@@ -6042,19 +6042,19 @@
 	.header_bot textarea,
 	.header_bot select,
 	.header_bot option {
-		border-color:#dcd9c9;
+		border-color:rgba(255,255,255,0);
 	}
 	/* Finish Header Bottom Borders Color */
 	
 	
 	/* Start Header Bottom Custom Rules */
 	.header_bot ::selection {
-		background:#9f00cc;
+		background:#3f9bb6;
 		color:#ffffff;
 	}
 	
 	.header_bot ::-moz-selection {
-		background:#9f00cc;
+		background:#3f9bb6;
 		color:#ffffff;
 	}
 	/* Finish Header Bottom Custom Rules */
@@ -6068,7 +6068,7 @@
 	/* Start Navigation Title Link Color */
 	@media only screen and (min-width: 1025px) {
 		ul.navigation > li > a {
-			color:#540075;
+			color:#ffffff;
 		}
 	}
 	/* Finish Navigation Title Link Color */
@@ -6080,7 +6080,7 @@
 		ul.navigation > li > a:hover .nav_subtitle,
 		ul.navigation > li:hover > a,
 		ul.navigation > li:hover > a .nav_subtitle {
-			color:#ea23d9;
+			color:#a139ca;
 		}
 	}
 	/* Finish Navigation Title Link Hover Color */
@@ -6092,7 +6092,7 @@
 		ul.navigation > li.menu-item.current-menu-item > a .nav_subtitle, 
 		ul.navigation > li.menu-item.current-menu-ancestor > a, 
 		ul.navigation > li.menu-item.current-menu-ancestor > a .nav_subtitle {
-			color:#9f00cc;
+			color:#4817f6;
 		}
 	}
 	/* Finish Navigation Title Link Current Color */
@@ -6101,7 +6101,7 @@
 	/* Start Navigation Title Link Subtitle Color */
 	@media only screen and (min-width: 1025px) {
 		ul.navigation > li > a .nav_subtitle {
-			color:rgba(44,59,75,0.3);
+			color:rgba(239,0,151,0);
 		}
 	}
 	/* Finish Navigation Title Link Subtitle Color */
@@ -6155,19 +6155,19 @@
 	
 	/* Start Navigation Dropdown Background Color */
 	.navigation li a .nav_tag {
-		color:#ffffff;
+		color:rgba(2,2,2,0.84);
 	}
 	
 	@media only screen and (max-width: 1024px) {
 		ul.navigation {
-			background-color:#ffffff;
+			background-color:rgba(2,2,2,0.84);
 		}
 	}
 	
 	@media only screen and (min-width: 1025px) {	
 		ul.navigation ul, 
 		ul.navigation .menu-item-mega-container {
-			background-color:#ffffff;
+			background-color:rgba(2,2,2,0.84);
 		}
 	}
 	/* Finish Navigation Dropdown Background Color */
@@ -6177,7 +6177,7 @@
 	@media only screen and (min-width: 1025px) {
 		ul.navigation ul, 
 		ul.navigation .menu-item-mega-container {
-			border-color:#ea23d9;
+			border-color:#dcd9c9;
 		}
 	}
 	/* Finish Navigation Dropdown Border Color */
@@ -6185,13 +6185,13 @@
 	
 	/* Start Navigation Dropdown Link Color */
 	.navigation li a {
-		color:#9f00cc;
+		color:#ffffff;
 	}
 	
 	@media only screen and (min-width: 1025px) {
 		.navigation div.menu-item-mega-container > ul > li > a:not([href]):hover, 
 		.navigation div.menu-item-mega-container > ul > li > a:not([href]):hover .nav_subtitle {
-			color:#9f00cc;
+			color:#ffffff;
 		}
 	}
 	/* Finish Navigation Dropdown Link Color */
@@ -6204,17 +6204,17 @@
 	.navigation li.current-menu-item > a .nav_subtitle, 
 	.navigation li.current-menu-ancestor > a, 
 	.navigation li.current-menu-ancestor > a .nav_subtitle {
-		color:#ea23d9;
+		color:#4817f6;
 	}
 	
 	.navigation li a .nav_tag {
-		background-color:#ea23d9;
+		background-color:#4817f6;
 	}
 	
 	@media only screen and (min-width: 1025px) {
 		ul.navigation li > ul li:hover > a, 
 		ul.navigation li > ul li:hover > a .nav_subtitle {
-			color:#ea23d9;
+			color:#4817f6;
 		}
 	}
 	/* Finish Navigation Dropdown Link Hover Color */
@@ -6222,14 +6222,14 @@
 	
 	/* Start Navigation Dropdown Link Subtitle Color */
 	.navigation li a .nav_subtitle {
-		color:rgba(44,59,75,0.3);
+		color:rgba(44,59,75,0);
 	}
 	/* Finish Navigation Dropdown Link Subtitle Color */
 	
 	
 	/* Start Navigation Dropdown Link Hover Highlight Color */
 	.navigation li.menu-item-highlight > a {
-		color:#ea23d9;
+		color:#4817f6;
 	}
 	
 	.navigation div.menu-item-mega-container > ul > li > a:not([href]):hover {
@@ -6437,13 +6437,13 @@
 /***************** Start Gutenberg Module Custom Colors Scheme Rules ******************/
 
 	 div.wp-block ul > li:before {
-		background-color:#fffef7;
+		background-color:#ffffff;
 	}
 	
 	 .wp-block-quote,
 	.editor-styles-wrapper .wp-block-freeform blockquote,
 	.editor-styles-wrapper .wp-block-freeform blockquote p {
-		color:#540075;
+		color:#0d0a15;
 	}
 	
 	
@@ -6454,7 +6454,7 @@
 	 .wp-block-freeform.mce-content-body > table td,
 	.editor-styles-wrapper .wp-block-freeform table tbody tr th,
 	.editor-styles-wrapper .wp-block-freeform table tbody tr td {
-		color:#0015ff;
+		color:#a139ca;
 	}
 	
 	 .wp-block-table th,
@@ -6463,27 +6463,27 @@
 	 .wp-block-table.is-style-stripes td,
 	.editor-styles-wrapper .wp-block-freeform .mce-item-table tbody tr th,
 	.editor-styles-wrapper .wp-block-freeform .mce-item-table tbody tr td {
-		border-color:#dbbfef;
+		border-color:#ffffff;
 	}
 	
 	 .wp-block-table.is-style-stripes tr:nth-child(odd) th,
 	 .wp-block-table.is-style-stripes tr:nth-child(odd) td {
-		background-color:#fffef7;
+		background-color:#e7dedc;
 	}
 	
 	 .wp-block-table thead th,
 	 .wp-block-table thead td,
 	 .wp-block-freeform.mce-content-body > table thead th,
 	 .wp-block-freeform.mce-content-body > table thead td {
-		background-color:#540075;
-		border-color:#540075;
+		background-color:#4817f6;
+		border-color:#4817f6;
 	}
 	
 	 .wp-block-table thead th,
 	 .wp-block-table thead td,
 	 .wp-block-freeform.mce-content-body > table thead th,
 	 .wp-block-freeform.mce-content-body > table thead td {
-		color:#fffef7;
+		color:#e7dedc;
 	}
 	/* Finish Table Colors */
 
@@ -6504,7 +6504,7 @@
 	 .wp-caption dd,
 	 .wp-block-latest-posts .wp-block-latest-posts__post-date,
 	 .wp-block-latest-comments .wp-block-latest-comments__comment-date {
-		color:#540075;
+		color:#0d0a15;
 	}
 	/* Finish Main Content Font Color */
 	
@@ -6513,7 +6513,7 @@
 	.editor-styles-wrapper a,
 	.editor-styles-wrapper .wp-block-freeform.block-library-rich-text__tinymce a,
 	.editor-styles-wrapper .wp-block-file .wp-block-file__textlink .editor-rich-text__tinymce {
-		color:#ea23d9;
+		color:#a139ca;
 	}
 	/* Finish Primary Color */
 	
@@ -6535,11 +6535,11 @@
 	.editor-styles-wrapper h6 a:active,
 	.editor-styles-wrapper div.wp-block .wp-block-freeform.block-library-rich-text__tinymce a:hover,
 	.editor-styles-wrapper div.wp-block .wp-block-freeform.block-library-rich-text__tinymce a:active {
-		color:#0015ff;
+		color:#a139ca;
 	}
 	
 	.editor-styles-wrapper select:focus {
-		border-color:#0015ff;
+		border-color:#a139ca;
 	}
 	/* Finish Highlight Color */
 	
@@ -6559,43 +6559,43 @@
 	.editor-styles-wrapper h6,
 	.editor-styles-wrapper h6 a,
 	 .wp-block-pullquote {
-		color:#540075;
+		color:#4817f6;
 	}
 	
 	 .wp-block-pullquote.is-style-solid-color {
-		background-color:#540075;
+		background-color:#4817f6;
 	}
 	
 	 .wp-block-pullquote {
-		border-color:#540075;
+		border-color:#4817f6;
 	}
 	/* Finish Headings Color */
 	
 	
 	/* Start Main Background Color */
 	 .wp-block-pullquote.is-style-solid-color {
-		color:#fffef7;
+		color:#ffffff;
 	}
 	
 	body .editor-styles-wrapper,
 	.editor-styles-wrapper select {
-		background-color:#fffef7;
+		background-color:#ffffff;
 	}
 	/* Finish Main Background Color */
 	
 	
 	/* Start Borders Color */
 	 .wp-block-separator.is-style-dots:before {
-		color:#dbbfef;
+		color:#ffffff;
 	}
 	
 	 .wp-block-separator:not(.is-style-dots):before {
-		background-color:#dbbfef;
+		background-color:#ffffff;
 	}
 	
 	.editor-styles-wrapper select,
 	.editor-styles-wrapper .wp-block-freeform hr {
-		border-color:#dbbfef;
+		border-color:#ffffff;
 	}
 	/* Finish Borders Color */
 	
@@ -6604,8 +6604,8 @@
 	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background),
 	 .wp-block-file .wp-block-file__button,
 	 .wp-block-file a.wp-block-file__button {
-		color:#fffef7;
-		background-color:#ea23d9;
+		color:#ffffff;
+		background-color:#a139ca;
 	}
 	
 	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
@@ -6617,22 +6617,22 @@
 	 .wp-block-file a.wp-block-file__button:hover,
 	 .wp-block-file a.wp-block-file__button:focus,
 	 .wp-block-file a.wp-block-file__button:active {
-		color:#fffef7;
-		background-color:#0015ff;
+		color:#ffffff;
+		background-color:#a139ca;
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background) {
-		color:#ea23d9;
-		background-color:#fffef7;
-		border-color:#ea23d9;
+		color:#a139ca;
+		background-color:#ffffff;
+		border-color:#a139ca;
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):focus,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):active {
-		color:#fffef7;
-		background-color:#ea23d9;
-		border-color:#ea23d9;
+		color:#ffffff;
+		background-color:#a139ca;
+		border-color:#a139ca;
 	}
 	/* Finish Buttons Colors */
 	
@@ -6651,7 +6651,7 @@
 	.select2-drop.select2-drop-above.select2-drop-active, 
 	.cmsmasters_single_product .price, 
 	.cmsmasters_product .price {
-		color:#540075;
+		color:#0d0a15;
 	}
 	/* Finish Main Content Font Color */
 	
@@ -6676,7 +6676,7 @@
 	.cmsmasters_single_product .product_meta a:hover, 
 	.woocommerce-checkout-payment .place-order .terms label span:after, 
 	.shop_table .product-subtotal .woocommerce-Price-amount {
-		color:#ea23d9;
+		color:#a139ca;
 	}
 	
 	.widget_price_filter .ui-slider-range, 
@@ -6686,7 +6686,7 @@
 	.woocommerce-MyAccount-navigation li > a:hover, 
 	.woocommerce-MyAccount-navigation li.is-active > a, 
 	.cmsmasters_product .cmsmasters_product_add_inner .button:hover {
-		background-color:#ea23d9;
+		background-color:#a139ca;
 	}
 	
 	.select2-container.select2-container-active .select2-choice, 
@@ -6695,7 +6695,7 @@
 	.select2-drop.select2-drop-above.select2-drop-active,
 	.select2-container.select2-container--open .select2-selection--single,
 	.select2-container.select2-container--focus .select2-selection--single {
-		border-color:#ea23d9;
+		border-color:#a139ca;
 	}
 	/* Finish Primary Color */
 	
@@ -6709,11 +6709,11 @@
 	.shop_attributes th, 
 	.cmsmasters_single_product .price del, 
 	.cmsmasters_product .price del {
-		color:#0015ff;
+		color:#a139ca;
 	}
 	
 	.link_hover_color {
-		border-color:#0015ff;
+		border-color:#a139ca;
 	}
 	/* Finish Highlight Color */
 	
@@ -6748,7 +6748,7 @@
 	.shop_table td, 
 	.shop_table.customer_details td, 
 	.shop_table.customer_details th	{
-		color:#540075;
+		color:#4817f6;
 	}
 	
 	.woocommerce-store-notice, 
@@ -6763,11 +6763,11 @@
 	.stock, 
 	.widget_shopping_cart .widget_shopping_cart_content .button:hover, 
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .button:hover {
-		background-color:#540075;
+		background-color:#4817f6;
 	}
 	
 	section.products > h2 {
-		border-top-color:#540075;
+		border-top-color:#4817f6;
 	}
 	/* Finish Headings Color */
 	
@@ -6776,7 +6776,7 @@
 	.woocommerce-store-notice, 
 	.woocommerce-store-notice p a, 
 	.woocommerce-store-notice p a:hover {
-		color:#fffef7;
+		color:#ffffff;
 	}
 	
 
@@ -6796,7 +6796,7 @@
 	.cmsmasters_product .cmsmasters_product_add_inner .button, 
 	.woocommerce-EditAccountForm	fieldset, 
 	.woocommerce-EditAccountForm	fieldset legend {
-		background-color:#fffef7;
+		background-color:#ffffff;
 	}
 	/* Finish Main Background Color */
 	
@@ -6812,14 +6812,14 @@
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .button, 
 	.woocommerce-MyAccount-navigation li > a:hover, 
 	.woocommerce-MyAccount-navigation li.is-active > a {
-		color:#fffef7;
+		color:#e7dedc;
 	}
 	
 	.input-checkbox + label:before, 
 	.input-radio + label:before, 
 	input.shipping_method + label:before, 
 	ul.order_details strong {
-		background-color:#fffef7;
+		background-color:#e7dedc;
 	}
 	/* Finish Alternate Background Color */
 	
@@ -6827,12 +6827,12 @@
 	/* Start Borders Color */
 	.cmsmasters_star_rating .cmsmasters_star_trans_wrap, 
 	.comment-form-rating .stars > span {
-		color:#dbbfef;
+		color:#ffffff;
 	}
 	
 	.widget_price_filter .price_slider, 
 	div.products:before {
-		background-color:#dbbfef;
+		background-color:#ffffff;
 	}
 	
 	.woocommerce-checkout-payment .payment_methods .payment_box, 
@@ -6844,17 +6844,17 @@
 	.shop_table .actions, 
 	.cart_totals table .order-total td, 
 	.cart_totals table .order-total th {
-		background-color:rgba(219, 191, 239, 0.1);
+		background-color:rgba(255, 255, 255, 0.1);
 	}
 	
 	.woocommerce-info, 
 	.woocommerce-message, 
 	.woocommerce-error {
-		background-color:rgba(219, 191, 239, 0.2);
+		background-color:rgba(255, 255, 255, 0.2);
 	}
 	
 	.woocommerce-MyAccount-navigation li > a {
-		background-color:rgba(219, 191, 239, 0.5);
+		background-color:rgba(255, 255, 255, 0.5);
 	}
 	
 	.woocommerce-checkout-payment, 
@@ -6875,11 +6875,11 @@
 	.widget_shopping_cart .widget_shopping_cart_content, 
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content, 
 	.cmsmasters_product .cmsmasters_product_info {
-		border-color:#dbbfef;
+		border-color:#ffffff;
 	}
 	
 	section.products > h2 {
-		border-bottom-color:#dbbfef;
+		border-bottom-color:#ffffff;
 	}
 	/* Finish Borders Color */
 
@@ -7022,7 +7022,7 @@
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice p a, 
 	html .cmsmasters_color_scheme_footer .woocommerce-store-notice p a:hover {
-		color:#540075;
+		color:#020000;
 	}
 	
 
@@ -7042,7 +7042,7 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_product .cmsmasters_product_add_inner .button, 
 	html .cmsmasters_color_scheme_footer .woocommerce-EditAccountForm	fieldset, 
 	html .cmsmasters_color_scheme_footer .woocommerce-EditAccountForm	fieldset legend {
-		background-color:#540075;
+		background-color:#020000;
 	}
 	/* Finish Main Background Color */
 	
@@ -7058,14 +7058,14 @@
 	html .cmsmasters_color_scheme_footer .cmsmasters_dynamic_cart .widget_shopping_cart_content .button, 
 	html .cmsmasters_color_scheme_footer .woocommerce-MyAccount-navigation li > a:hover, 
 	html .cmsmasters_color_scheme_footer .woocommerce-MyAccount-navigation li.is-active > a {
-		color:#5c008e;
+		color:#020000;
 	}
 	
 	html .cmsmasters_color_scheme_footer .input-checkbox + label:before, 
 	html .cmsmasters_color_scheme_footer .input-radio + label:before, 
 	html .cmsmasters_color_scheme_footer input.shipping_method + label:before, 
 	html .cmsmasters_color_scheme_footer ul.order_details strong {
-		background-color:#5c008e;
+		background-color:#020000;
 	}
 	/* Finish Alternate Background Color */
 	

@@ -5896,7 +5896,7 @@
 	.header_mid input[type=submit]:hover, 
 	.header_mid input[type=button]:hover, 
 	.header_mid button:hover {
-		color:rgba(0,0,0,0.81);
+		color:rgba(0,0,0,0.84);
 	}
 	
 	.header_mid,
@@ -5904,7 +5904,7 @@
 	.header_mid textarea,
 	.header_mid select,
 	.header_mid option {
-		background-color:rgba(0,0,0,0.81);
+		background-color:rgba(0,0,0,0.84);
 	}
 	/* Finish Header Middle Background Color */
 	
@@ -5935,17 +5935,17 @@
 	
 	/* Start Header Middle Custom Rules */
 	.header_mid_inner_cont {
-		box-shadow: inset 0px -1px 0px 0px rgba(255,255,255,0), inset 0px -4px 0px 0px rgba(0,0,0,0.81),  inset 0px -5px 0px 0px rgba(255,255,255,0);
+		box-shadow: inset 0px -1px 0px 0px rgba(255,255,255,0), inset 0px -4px 0px 0px rgba(0,0,0,0.84),  inset 0px -5px 0px 0px rgba(255,255,255,0);
 	}
 	
 	.header_mid ::selection {
 		background:#ffffff;
-		color:rgba(0,0,0,0.81);
+		color:rgba(0,0,0,0.84);
 	}
 	
 	.header_mid ::-moz-selection {
 		background:#ffffff;
-		color:rgba(0,0,0,0.81);
+		color:rgba(0,0,0,0.84);
 	}
 	/* Finish Header Middle Custom Rules */
 

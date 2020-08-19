@@ -34,7 +34,7 @@
         <div class="modal-body">Selecciona "Cerrar Sesion" si deseas salir de la sesion actual.</div>
         <div class="modal-footer">
           <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-          <a class="btn btn-primary" href="salir.php">Cerrar Sesion</a>
+          <a class="btn btn-primary" href="../salir.php">Cerrar Sesion</a>
         </div>
       </div>
     </div>
